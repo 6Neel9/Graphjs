@@ -11,9 +11,10 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Countries</h2>
+      
       <Navbars />
-      <h2>Intensity</h2>
+      <h2>Countries</h2>
+      
       <Country />
 
     </div>
