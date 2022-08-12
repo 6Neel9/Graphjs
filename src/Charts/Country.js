@@ -69,6 +69,7 @@ function Country() {
     return (
         <>
             <Pie data={data} />
+            <h2>Intensity</h2>
             <Intensity datainfo={datainfo} />
         </>
 
